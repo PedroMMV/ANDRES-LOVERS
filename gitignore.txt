@@ -1,0 +1,8 @@
+data/datos_grasas_Tec.csv
+data/dataset_limpio.csv
+data/datos_grasas_Tec.csv
+data/datos_grasas_Tec.csv
+data/datos_grasas_Tec.csv
+.claude/
+__pycache__/
+*.pyc
