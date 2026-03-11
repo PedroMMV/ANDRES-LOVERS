@@ -1,0 +1,14 @@
+﻿codigoGrasa,Grado NLGI Consistencia,Aceite Base,Espesante,Viscosidad del Aceite Base a 40°C. cSt,"Punto de Gota, °C","Punto de Soldadura Cuatro Bolas, kgf","Desgaste Cuatro Bolas, mm",Corrosión al Cobre,"Temperatura de Servicio °C, min","Temperatura de Servicio °C, max"
+Starplex EP 1 M3,1.0,ISO 220,Complejo de Litio,220,245,400.0,0.43,1a,-40.0,177.0
+Starplex EP 2 M3,2.0,ISO 220,Complejo de Litio,220,255,400.0,0.43,1a,-40.0,177.0
+Starplex EP 00,0.0,ISO 220,Complejo de Litio,220,132,315.0,0.45,1b,-40.0,132.0
+Starplex EP 0,0.0,ISO 220,Complejo de Litio,220,235,315.0,0.45,1b,-40.0,132.0
+Starplex EP 2,2.0,ISO 220,Complejo de Litio,220,255,315.0,0.45,1b,-40.0,177.0
+ANDEROL FGCS-2,2.0,Aceite Blanco (White Oil),Complejo de Sulfonato de Calcio,95,318,4000.0,,,-20.0,160.0
+ULTRAPLEX MCS 1,1.0,Aceite mineral de alta viscosidad,Complejo de Sulfonato de Calcio,460,>300,620.0,0.31,1a,-20.0,180.0
+ULTRAPLEX MCS 2,2.0,Aceite mineral de alta viscosidad,Complejo de Sulfonato de Calcio,460,>300,620.0,0.31,1a,-20.0,180.0
+Delo Grease EP 00,0.0,ISO 220,Complejo de Litio,226,,315.0,0.45,1b,-40.0,132.0
+Delo Grease EP 0,0.0,ISO 220,Complejo de Litio,226,235.0,315.0,0.45,1b,-40.0,132.0
+Delo Grease EP 1,1.0,ISO 220,Complejo de Litio,226,245.0,315.0,0.45,1b,-40.0,177.0
+Delo Grease EP 2,2.0,ISO 220,Complejo de Litio,226,255.0,315.0,0.45,1b,-40.0,177.0
+ELKALUB GLS 163,,Aceite mineral parcialmente sintético,Orgánico sintético con PTFE,100,250,,,Grado 1 (DIN 51 811-1-100),,

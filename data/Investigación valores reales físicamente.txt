@@ -1,0 +1,52 @@
+
+Grado NLGI Consistencia
+Escala NLGI oficial (ASTM D217) define grados 000–6 con rangos de penetración trabajada a 25 
+0, 1, 2, 3,...
+Fuente: https://www.nlgi.org/grease-glossary/nlgi-grade
+
+Viscosidad del Aceite Base a 40 °C (cSt)
+ISO VG para aceites industriales se define en 40 °C y cubre aprox. 2–1500 cSt, ampliable a aceites muy viscosos
+40 – 4000 cSt
+https://www.jetlube.com/blog/understanding-lubricant-physical-properties-and-chemistry
+
+Punto de Gota °C (Dropping Point)
+FUCHS da dropping points típicos por espesante:
+Litio: > 180 °C
+Calcio: > 80 °C
+Litio complejo / calcio complejo / poliurea / Ca sulfonato / Al complejo: > 230–250 °C
+PTFE: > 280 °C
+80 – 400 °C
+Fuente: https://www.fuchs.com/es/en/products/product-program/lubricating-greases/what-is-the-dropping-point-of-a-lubricating-grease/
+
+Punto de Soldadura Cuatro Bolas, kgf (ASTM D2596)
+Ensayo de EP Four-ball. Datasheets típicos: ZAP Grease GRAPHITE: weld load 260 kgf, rango de operación −30 a 120 °C.
+En catálogo industrial se encuentran grasas entre >200 y ~800–800+ kgf.
+200 – 1000 kgf
+Fuente: https://zap-grease.com/wp-content/uploads/2022/09/ZAP-Grease-GRAPHITE-TDS_ENG.pdf
+
+Punto de Soldadura Cuatro Bolas, kgf
+En catálogo industrial se encuentran grasas entre >200 y ~800–800+ kgf.
+200 – 1000 kgf
+Fuente: https://rtec-instruments.com/tribometer/tribometer-applications/astm-d2596-measurement-of-extreme-pressure-properties-of-lubricating-grease/
+
+Temperatura de Servicio °C
+Grasas minerales estándar: −20 a −30 °C mínimo. 
+Con dropping points típicos 180–270 °C, esto da:
+Servicio continuo típico: 100–220 °C
+-60 - 260 °C
+
+Penetración de Cono a 25 °C (min/max, 0.1 mm)
+NLGI 3: 220–250
+NLGI 000: 445–475
+220 – 475 (0.1 mm)
+Fuente: https://www.nlgi.org/grease-glossary/nlgi-grade/
+
+Estabilidad Mecánica % (min/max)
+Equivale aproximadamente a cambios de penetración de orden 30–60 unidades (10–20%), dependiendo del grado.
+0 – 20 %
+Fuente: 
+
+Resistencia al Lavado por Agua a 80 °C, % (min/max)
+ZAP Grease GRAPHITE: washout < 7 % a 80 °C. Muchas grasas premium reportan 1–5 %; peor calidad puede llegar a 10–15 %.
+0 – 15 %
+Fuente: https://zap-grease.com/wp-content/uploads/2022/09/ZAP-Grease-GRAPHITE-TDS_ENG.pdf
